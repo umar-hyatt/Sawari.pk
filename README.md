@@ -71,5 +71,5 @@ This repository contains a ride-sharing platform similar to Uber, developed with
 - Contributions are welcome! Please create a pull request with a detailed explanation of your changes.
 
 7. ## Contact
-- For any queries or suggestions, please reach out at umarhyatt14@gmail.com mughalfahad544@gmail.com.
+- For any queries or suggestions, please reach out at umarhyatt14@gmail.com
 
